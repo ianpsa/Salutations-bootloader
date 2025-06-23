@@ -75,3 +75,10 @@ Comentários no próprio arquivo explicam detalhadamente cada instrução.
 1. O BIOS localiza o primeiro setor de boot do dispositivo escolhido e o carrega em `0x7C00`.
 2. Verifica a assinatura `55AA`; em caso de ausência, considera o setor inválido.
 3. Transfere execução para `0x7C00` com a CPU ainda em modo real (16 bits).
+
+## Vídeo
+
+
+
+https://github.com/user-attachments/assets/a8d40ce7-cf49-48c2-8fe7-58da3a91a026
+
